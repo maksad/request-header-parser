@@ -1,0 +1,20 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "Simple app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksad D.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ip": "^1.1.5",
+    "logger": "0.0.1",
+    "morgan": "^1.8.1",
+    "request-ip": "^2.0.1",
+    "sort-json": "^1.4.1"
+  }
+}
